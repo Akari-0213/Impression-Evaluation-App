@@ -46,7 +46,7 @@ PythonライブラリPsychoPy（サイコパイ）を用いた心理学実験用
 
 ## 出力データについて
 
-実験結果は `data` フォルダ内に `result_〇_impresstion.csv` として情報が追加・保存されます。
+実験結果は `data` フォルダ内に `result_〇_impression.csv` として情報が追加・保存されます。
 
 ### CSVカラム（列）の読み方
 

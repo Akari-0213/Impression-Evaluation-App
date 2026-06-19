@@ -5,7 +5,7 @@ from psychopy import visual, core, gui, event
 from impress import Impressions
 from each_images import EachQuestions
 
-CSV_PATH = pathlib.Path(__file__ + "/../../data/result_K_impresstion.csv")
+CSV_PATH = pathlib.Path(__file__ + "/../../data/result_K_impression.csv")
 SETTINGS_ONNRYOU = pathlib.Path(__file__ + "/../../settings/ONNRYOU_images")
 
 
